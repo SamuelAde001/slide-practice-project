@@ -2,4 +2,4 @@
 
 A slide showing pictures using Javascript
 
-![](./screenshot.JPG)
+![](./Capture.JPG)
